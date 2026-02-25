@@ -143,8 +143,8 @@ Dado el desbalance esperado de clases (inundaciones son eventos poco frecuentes)
 
 ## 👥 Equipo
 
-Proyecto académico — Universidad Nacional de Colombia, sede Bogotá
-Grupo: **Antioquia Flood AI** - Equipo de trabajo de la asignatura Redes Neuronales
+- Proyecto académico — Universidad Nacional de Colombia, sede Bogotá
+- Grupo: **Antioquia Flood AI** - Equipo de trabajo de la asignatura Redes Neuronales
 
 ---
 
